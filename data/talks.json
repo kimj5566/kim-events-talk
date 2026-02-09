@@ -1,0 +1,58 @@
+[
+  {
+    "id": "talk1",
+    "title": "Introduction to Quantum Computing",
+    "speakers": ["Alice Smith"],
+    "categories": ["Quantum", "Physics", "Future Tech"],
+    "duration": 60,
+    "description": "An introductory overview of quantum computing, its principles, and potential applications."
+  },
+  {
+    "id": "talk2",
+    "title": "Demystifying Machine Learning Pipelines",
+    "speakers": ["Bob Johnson", "Carol White"],
+    "categories": ["AI", "Machine Learning", "Data Science"],
+    "duration": 60,
+    "description": "Explore the various stages of building and deploying robust machine learning pipelines."
+  },
+  {
+    "id": "talk3",
+    "title": "Cloud Native Development with Kubernetes",
+    "speakers": ["David Green"],
+    "categories": ["Cloud", "DevOps", "Kubernetes"],
+    "duration": 60,
+    "description": "Learn how to build and deploy applications in a cloud-native environment using Kubernetes."
+  },
+  {
+    "id": "lunch",
+    "title": "Lunch Break",
+    "speakers": [],
+    "categories": ["Break"],
+    "duration": 60,
+    "description": "Enjoy a delicious lunch and network with fellow attendees."
+  },
+  {
+    "id": "talk4",
+    "title": "Advanced JavaScript Patterns",
+    "speakers": ["Eve Black"],
+    "categories": ["JavaScript", "Web Development", "Programming"],
+    "duration": 60,
+    "description": "Dive deep into modern JavaScript patterns and best practices for scalable applications."
+  },
+  {
+    "id": "talk5",
+    "title": "Cybersecurity Essentials for Developers",
+    "speakers": ["Frank Red"],
+    "categories": ["Security", "Development", "Best Practices"],
+    "duration": 60,
+    "description": "Understand key cybersecurity concepts and how to incorporate them into your development workflow."
+  },
+  {
+    "id": "talk6",
+    "title": "The Future of WebAssembly",
+    "speakers": ["Grace Blue"],
+    "categories": ["WebAssembly", "Web Development", "Performance"],
+    "duration": 60,
+    "description": "Discover the exciting possibilities of WebAssembly and its impact on web development."
+  }
+]
